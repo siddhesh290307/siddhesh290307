@@ -12,8 +12,11 @@ Competitive Programming: Algorithms, Data Structures, Problem Solving
 ## Tech Stack
 
 Languages: Python, Java, C, HTML, CSS
+
 Libraries & Frameworks: TensorFlow, Keras, NumPy, Pandas, Matplotlib
+
 Tools & Platforms: VSCode, Colab, Git/GitHub, Jupyter Notebook
+
 Domains: AI/ML, Computer Vision
 
 ## Socials
