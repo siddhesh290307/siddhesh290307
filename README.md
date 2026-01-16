@@ -1,6 +1,4 @@
-# README.md
-
-##Siddhesh Nadkarni 👋
+## Siddhesh Nadkarni 👋
 2nd-year IT Engineering Student | AI/ML & Computer Vision Enthusiast | Research Mentee
 
 Hi! I’m Siddhesh, a passionate learner and problem-solver focused on machine learning, deep learning, and software development. I enjoy building projects from scratch, experimenting with cutting-edge models.
@@ -20,11 +18,6 @@ Domains: AI/ML, Computer Vision
 
 ## Socials
 
-www.linkedin.com/in/siddhesh-nadkarni-a99086297
+LinkeIn: www.linkedin.com/in/siddhesh-nadkarni-a99086297
 
-
-
-
-
-✉️ Email: [your-email@example.com
-]
+Email: nadkarnisiddhesh2903@gmail.com
