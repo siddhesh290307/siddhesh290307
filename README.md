@@ -5,8 +5,8 @@ Hi! I’m Siddhesh, a passionate learner and problem-solver focused on machine l
 
 ## Interests
 
-Deep Learning & Computer Vision: ResNet, U-Net, Transformers
-AI/ML Projects: Chatbots, image classification, model inference
+Deep Learning & Computer Vision
+AI/ML Projects: Classification, Regression, Unsupervised Learning, Image Classification
 Competitive Programming: Algorithms, Data Structures, Problem Solving
 
 ## Tech Stack
