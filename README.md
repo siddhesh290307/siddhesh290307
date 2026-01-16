@@ -21,6 +21,6 @@ Domains: AI/ML, Computer Vision
 
 ## Socials
 
-LinkeIn: www.linkedin.com/in/siddhesh-nadkarni-a99086297
+LinkedIn: www.linkedin.com/in/siddhesh-nadkarni-a99086297
 
 Email: nadkarnisiddhesh2903@gmail.com
