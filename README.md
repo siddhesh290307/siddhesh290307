@@ -13,7 +13,7 @@ Competitive Programming: Algorithms, Data Structures, Problem Solving
 
 Languages: Python, Java, C, HTML, CSS
 
-Libraries & Frameworks: TensorFlow, Keras, NumPy, Pandas, Matplotlib
+Libraries & Frameworks: TensorFlow, Keras, NumPy, Pandas, Matplotlib, Pydantic
 
 Tools & Platforms: VSCode, Colab, Git/GitHub, Jupyter Notebook
 
