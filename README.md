@@ -1,27 +1,102 @@
-# 💫 About Me:
-2nd-year IT Engineering Student | AI/ML & Computer Vision Enthusiast | Research Mentee<br>
+# 👋 Hi, I'm Siddhesh Nadkarni
+
+🎓 2nd-Year IT Engineering Student  
+🧠 ML Research Mentee | Deep Learning | Transformers  
+🚀 Focused on understanding and building intelligent systems  
+
+---
+
+## 💫 About Me
+
+I’m a machine learning enthusiast working at the intersection of **theory and practical systems**.
+
+My current research focuses on **Transformer architectures**, specifically:
+- Attention geometry (Q–K interactions)
+- Effects of initialization on training dynamics
+- Entropy collapse and head specialization
+- LayerNorm vs non-LayerNorm (T-Fixup) behavior
+
+Alongside research, I build **end-to-end ML systems**, combining deep learning models with scalable backend and frontend applications.
+
+I don’t just use models — I analyze how they behave, why they fail, and how to improve them.
+
+---
+
+## 🧠 Interests
+
+- Transformer Architectures & Attention Mechanisms  
+- Deep Learning Theory (Optimization, Initialization, Geometry)  
+- Computer Vision & Representation Learning  
+- Applied ML Systems (FastAPI, React, Deployment)  
+- Competitive Programming (DSA & Algorithms)  
+
+---
+
+## 🚀 Featured Projects
 
 
-Hello. I am  Siddhesh, a passionate learner and problem-solver focused on machine learning, deep learning, and its applications. I enjoy building projects from scratch, experimenting with cutting-edge models.
+### 👥 Crowd Counting Comparative Study
+- Implemented CSRNet, patch-based CNN, and hybrid CNN+ViT models  
+- Evaluated on ShanghaiTech dataset  
+- Achieved significant MAE improvements with hybrid approach  
 
-## Interests
+---
 
-Deep Learning & Computer Vision
+### 🌍 Neural Machine Translation (NMT)
+- Attention-based Seq2Seq model with Beam Search  
+- BLEU Score: **0.27**  
+- Focus on sequence modeling and decoding strategies  
 
-AI/ML Projects: Classification, Regression, Unsupervised Learning, Image Classification
+---
 
-Competitive Programming: Algorithms, Data Structures, Problem Solving
+### 🎬 Full-Stack Movie Recommender System
+- Backend: FastAPI  
+- Frontend: React  
+- Personalized recommendations with scalable API  
 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+### 🍔 Food Image Classification
+- Compared EfficientNetV2B0 vs MobileNetV2  
+- Deployed using Streamlit  
+- Focus on model efficiency vs accuracy trade-offs  
 
+---
 
+## 💻 Tech Stack
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-nadkarni-a99086297/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadkarnisiddhesh2903@gmail.com) 
+**Languages:**  
+`Python` `Java` `C`
 
+**Machine Learning & Data:**  
+`TensorFlow` `Keras` `Scikit-learn` `NumPy` `Pandas`
 
+**Frameworks & Tools:**  
+`FastAPI` `React` `TailwindCSS` `Streamlit` `MySQL` `Figma`
 
+---
 
+## 📊 GitHub Stats
 
+![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhesh290307&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/siddhesh-nadkarni-a99086297/  
+- 📧 Email: nadkarnisiddhesh2903@gmail.com  
+
+---
+
+## ⚡ Current Focus
+
+- Transformer research (geometry, initialization, normalization)
+- Building scalable ML systems
+- Exploring intersections of theory + real-world deployment  
+
+---
+
+## 📌 Note
+
+Actively looking for **ML / Deep Learning Research Internships (Summer 2026)**  
